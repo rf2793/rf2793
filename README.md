@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorfohm
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vaadin, AWS, Firestore and Firebase
+- 🌱 I’m currently learning JS
 - 📫 How to reach me rodolfofsantos2018@gmail.com
 
 <!---
