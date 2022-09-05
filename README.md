@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorfohm
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS, Node.js, Express, SQL
 - 📫 How to reach me rodolfofsantos2018@gmail.com
 
 <!---
